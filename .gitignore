@@ -5,3 +5,9 @@ homework/titanic_baseline.csv
 homework/submission_no_normalization.csv
 homework/Submission_rf.csv
 homework/submission_with_scaling.csv
+homework/titanic_rf.csv
+homework/titanic_lr.csv
+homework/titanic_gdbt.csv
+homework/titanic_blending_v2.csv
+homework/titanic_blending.csv
+homework/titanic_stacking.csv
