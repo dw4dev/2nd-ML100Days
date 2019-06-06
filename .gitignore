@@ -2,3 +2,6 @@ Data
 /homework/.ipynb_checkpoints
 homework/dw-home-credit-default-risk-v1.csv
 homework/titanic_baseline.csv
+homework/submission_no_normalization.csv
+homework/Submission_rf.csv
+homework/submission_with_scaling.csv
